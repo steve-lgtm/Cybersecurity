@@ -39,6 +39,9 @@ Command prompt built in Python.
 Examples:
 
 mkdir file
+
 ls
+
 cd file
+
 cd ..
