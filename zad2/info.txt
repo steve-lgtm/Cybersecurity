@@ -1,0 +1,10 @@
+meno1:heslo1
+meno2:heslo2
+meno3:heslo3
+meno4:heslo4
+meno5:heslo5
+meno6:heslo6
+meno7:heslo7
+meno8:heslo8
+meno9:heslo9
+meno10:heslo10
