@@ -8,7 +8,7 @@ In this repository are some programs about cybersecurity programmed in Python.
 
 The program to encrypt/decrypt file via simple cipher algorithm.
 
-Examples:
+**Examples:**
 
 ./run.py -s -p key -i test.txt -o encrypted.txt
 
@@ -18,7 +18,7 @@ Examples:
 
 The program to realize sign in multifactor authentication.
 
-Examples:
+**Examples:**
 
 ./zadanie2.py
 name: meno1
@@ -36,7 +36,7 @@ chyba
 
 Command prompt built in Python.
 
-Examples:
+**Examples:**
 
 mkdir file
 
