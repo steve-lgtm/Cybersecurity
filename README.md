@@ -8,6 +8,7 @@ In this repository are some programs about cybersecurity programmed in Python.
 
 Program to encrypt/decrypt file via simple cipher algorithm.
 
-Examples: 
+Examples:
+
 ./run.py -s -p key -i test.txt -o encrypted.txt
 ./run.py -d -p key -i encrypted.txt -o decrypted.txt
